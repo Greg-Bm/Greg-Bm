@@ -12,5 +12,3 @@ Background in mathematics (B.S., University of Washington) and Haskell developer
 
 - [`stm-ringbuffer`](https://github.com/Greg-Bm/stm-ringbuffer): ring buffer for Haskell STM
 - [`tree-comparison-haskell`](https://github.com/Greg-Bm/tree-comparison-haskell): implementations and benchmarks of tree data structures
-
-[LinkedIn](https://www.linkedin.com/in/gregory-baimetov)
