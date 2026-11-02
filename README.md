@@ -5,7 +5,7 @@ Background in mathematics (B.S., University of Washington) and Haskell developer
 
 ### Selected public work
 
-- **static-ls**, the Haskell language server used at Mercury: first inlay hints (types from HIE files, record-wildcard fields), a remove-redundant-imports code action, LANGUAGE-pragma completion. [9 merged PRs](https://github.com/josephsumabat/static-ls/pulls?q=is%3Apr+author%3AGreg-Bm+is%3Amerged)
+- **static-ls**, the Haskell language server used at Mercury: first inlay hints (types from HIE files, record-wildcard fields), a remove-redundant-imports code action, LANGUAGE-pragma completion. [Merged PRs](https://github.com/josephsumabat/static-ls/pulls?q=is%3Apr+author%3AGreg-Bm+is%3Amerged)
 - **Summer of Haskell 2023**, *Maximally Decoupling Haddock and GHC*: prototype JSON serialization of GHC's AST and a write-up of the blockers. [Results](https://summer.haskell.org/news/2024-01-20-summer-of-haskell-2023-results.html)
 
 ### In this account
